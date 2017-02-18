@@ -1,12 +1,12 @@
 # yarn_demo
 Facebook推出的Yarn：为速度而打造的开源JavaScript包管理器，或取代npm  
 
-npm install -g yarn
-yarn init  
+npm install -g yarn  
+yarn init    
 
-与npm的等价命令：
-npm install === yarn 
-npm install taco --save === yarn add taco 
-npm uninstall taco --save === yarn remove taco
-npm install taco --save-dev === yarn add taco --dev
-npm init === yarn init
+与npm的等价命令：  
+npm install === yarn   
+npm install taco --save === yarn add taco   
+npm uninstall taco --save === yarn remove taco  
+npm install taco --save-dev === yarn add taco --dev  
+npm init === yarn init  
