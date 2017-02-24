@@ -9,7 +9,8 @@ yarn add browser-sync --dev
 
 与npm的等价命令：    
 npm install === yarn   
+npm init === yarn init  
 npm install taco --save === yarn add taco   
 npm uninstall taco --save === yarn remove taco  
 npm install taco --save-dev === yarn add taco --dev  
-npm init === yarn init  
+  
