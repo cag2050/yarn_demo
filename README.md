@@ -10,7 +10,7 @@ yarn add browser-sync --dev
 与npm的等价命令：    
 npm install === yarn   
 npm init === yarn init  
-npm install [package-name] --save === yarn add [package-name]   
-npm uninstall [package-name] --save === yarn remove [package-name]  
+npm install [package-name] --save === yarn add [package-name]     
+npm uninstall [package-name] --save === yarn remove [package-name]    
 npm install [package-name] --save-dev === yarn add [package-name] --dev  
   
