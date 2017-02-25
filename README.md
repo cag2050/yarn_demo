@@ -14,4 +14,5 @@ npm install [package-name] --save === yarn add [package-name]  
 npm uninstall [package-name] --save === yarn remove [package-name]    
 npm install [package-name] --save-dev === yarn add [package-name] --dev   
 npm run === yarn run  
+npm install -g [package-name] === yarn global add [package-name]
   
