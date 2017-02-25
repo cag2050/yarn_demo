@@ -12,5 +12,6 @@ npm install === yarn
 npm init === yarn init  
 npm install [package-name] --save === yarn add [package-name]     
 npm uninstall [package-name] --save === yarn remove [package-name]    
-npm install [package-name] --save-dev === yarn add [package-name] --dev  
+npm install [package-name] --save-dev === yarn add [package-name] --dev   
+npm run === yarn run  
   
