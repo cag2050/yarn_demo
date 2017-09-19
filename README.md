@@ -1,7 +1,7 @@
 # yarn_demo
-Facebook推出的Yarn：为速度而打造的开源JavaScript包管理器，或取代npm    
+* Facebook推出的Yarn：为速度而打造的开源JavaScript包管理器，或取代npm    
 
-依次运行下列命令：  
+* 依次运行下列命令：  
 npm install -g yarn    
 yarn init       
 yarn add gulp    
