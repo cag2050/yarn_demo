@@ -12,7 +12,7 @@ yarn 与 npm 功能对应表格：
 命令 | yarn | npm
 --- | --- | ---
 初始化 | yarn init | npm init
-安装项目所有包 | yarn install | npm install
+安装项目所有包(注意) | yarn | npm install
 添加 dependencies | yarn add [package-name]  | npm install [package-name] --save
 添加 devDependencies | yarn add [package-name] --dev | npm install [package-name] --save-dev
 删除 dependencies | yarn remove [package-name]  | npm uninstall [package-name] --save
