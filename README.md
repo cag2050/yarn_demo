@@ -7,7 +7,7 @@ yarn init  
 yarn add gulp    
 yarn add browser-sync --dev    
 
-yarn 与 npm 功能对应表格：
+* yarn 与 npm 功能对应表格：
 
 命令 | yarn | npm
 --- | --- | ---
